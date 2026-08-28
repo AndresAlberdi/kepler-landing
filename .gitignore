@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.firebase/
+firebase-debug.log
+# Variables de entorno: una sola excepción, nunca por archivo
+.env
+.env.*
+!.env.example
+*.local
+coverage/
+.DS_Store
